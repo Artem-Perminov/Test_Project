@@ -1,4 +1,4 @@
-import _ from "lodash";
+import _ from 'lodash';
 
-const myFn = _.capitalize("hello");
+const myFn = _.capitalize('hello');
 console.log(myFn);
