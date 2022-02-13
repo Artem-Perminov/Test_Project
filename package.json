@@ -1,0 +1,22 @@
+{
+  "name": "test_project",
+  "version": "1.0.0",
+  "description": "Working with Git",
+  "main": "index.js",
+  "bin": {
+    "test_project": "bin/welcomeToGit.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Artem-Perminov/Test_Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Artem-Perminov/Test_Project/issues"
+  },
+  "homepage": "https://github.com/Artem-Perminov/Test_Project#readme"
+}
