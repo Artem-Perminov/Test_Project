@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Artem-Perminov/Test_Project/issues"
   },
-  "homepage": "https://github.com/Artem-Perminov/Test_Project#readme"
+  "homepage": "https://github.com/Artem-Perminov/Test_Project#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
