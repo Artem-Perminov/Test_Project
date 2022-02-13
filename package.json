@@ -1,6 +1,7 @@
 {
   "name": "test_project",
   "version": "1.0.0",
+  "type": "module",
   "description": "Working with Git",
   "main": "index.js",
   "bin": {
